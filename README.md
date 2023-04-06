@@ -1,2 +1,2 @@
 # UniIBMWatsonApp
-IBM Sınıflandırma Api Kullanımı
+Using the IBM Classification API
